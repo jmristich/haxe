@@ -4,6 +4,6 @@
         ["build-js.hxml"], // hxml file is an normal haxe argument too
     ],
     "haxe.displayServer": { // configuration for starting haxe completion server itself
-        "arguments": ["-v"] // arguments before --wait (-v is usefuo l for debugging)
+        "arguments": ["-v"] // arguments before --wait (-v is useful for debugging)
     }
 }
